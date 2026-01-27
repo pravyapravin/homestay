@@ -781,8 +781,8 @@ function LocationHighlights() {
             }`}
           >
             <img
-              src="https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800&q=80"
-              alt="Coastal Karnataka landscape"
+              src="/images/coastal-karnataka-beach.jpg"
+              alt="Coastal Karnataka beach"
               className="rounded-xl shadow-2xl"
             />
             <div className="absolute -bottom-6 -left-6 bg-paper-50 p-4 rounded-xl shadow-lg border border-terracotta-200">
@@ -1460,7 +1460,7 @@ function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex flex-col items-center md:items-start gap-3">
             <p className="text-paper-400 text-sm">
-              © 2024 Ashraya Stays. All rights reserved.
+              © 2026 Ashraya Stays. All rights reserved.
             </p>
             <div className="flex items-center gap-3">
               <img src="/images/karnataka-tourism-logo.svg" alt="Karnataka Tourism" className="h-6 w-auto brightness-150" />
